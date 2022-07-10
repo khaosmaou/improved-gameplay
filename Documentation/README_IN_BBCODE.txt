@@ -2,7 +2,7 @@
 [/size]
 [size=3][b][u]Recent Changes:[/u] 
 [/b]
-   v3.2 fixes traps not spawning and adds explosive vests to the Bomb Threat and Hostage Rescue layers.[b] Updated for and supported for game version "Ready or Not Early Access 21474 (Jun 29 2022)".[/b]
+   v3.3 balances the chances of fake surrenders and knife suspect counts.[b] Updated for and supported for game version "Ready or Not Early Access 21474 (Jun 29 2022)".[/b]
 
 [u]Changelog:[/u] [url=https://github.com/khaosmaou/improved-gameplay]Improved Gameplay on Github[/url]
 [/size]
