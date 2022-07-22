@@ -4,8 +4,8 @@
 [/b]
    v3.5 fixes suspects spawning with knives in active shooter layers.[b] Updated for and supported for game version "Ready or Not Early Access 21677 (Jul 19 2022)".[/b]
 
-[u]Changelog:[/u] [url=https://gitlab.com/khaosmaou6458/improved-gameplay/-/commits/main]Improved Gameplay on Gitlab
-[/url]
+[u]Changelog:[/u] [url=https://github.com/khaosmaou/improved-gameplay]Improved Gameplay on GitHub
+[/url][u]Issues/Bug Tracker:[/u] [url=https://github.com/khaosmaou/improved-gameplay/issues]Also on GitHub Issues[/url]
 [/size]
 [size=4]Gameplay Tips:[/size]
 
